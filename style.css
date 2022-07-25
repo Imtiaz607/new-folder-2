@@ -1,0 +1,35 @@
+body{
+    background-color: cadetblue;
+}
+.side{
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+
+}
+.menu{
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.menu:hover{
+    background-color: bisque;
+    color: black;
+    padding: 10px;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: azure;
+    padding: 0px 10px 0px 10px;
+}
+
+.btn:hover{
+    background-color: aqua;
+    color: darkblue;
+    padding: 10px;
+}
+
+.ff{
+    color: darkred;
+}
